@@ -2,7 +2,7 @@
 This project contain all android related utilities
 - Check internet connection 
 - Get device mac address 
-- et device name 
+- Get device name 
 -etc.
 
 # Gradle
