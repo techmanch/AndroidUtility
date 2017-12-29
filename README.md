@@ -33,7 +33,7 @@ public class MyApplication extends Application {
     }
 }
   ```
-  #Example
+  # Example
   ```groovy
   //Check network connection
         com.ak_devt.androidutility.NetworkUtils.isNetworkConnected();
