@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidUtility/mylibrary.iml" filepath="$PROJECT_DIR$/AndroidUtility/mylibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidUtility/AndroidUtility.iml" filepath="$PROJECT_DIR$/AndroidUtility/AndroidUtility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidUtils.iml" filepath="$PROJECT_DIR$/AndroidUtils.iml" />
+      <module fileurl="file://D:\Projects\akshay\AndroidUtils\Test.iml" filepath="D:\Projects\akshay\AndroidUtils\Test.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javademo/javademo.iml" filepath="$PROJECT_DIR$/javademo/javademo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://D:\Projects\akshay\AndroidUtils\app\app.iml" filepath="D:\Projects\akshay\AndroidUtils\app\app.iml" />
+      <module fileurl="file://D:\Projects\akshay\AndroidUtils\javademo\javademo.iml" filepath="D:\Projects\akshay\AndroidUtils\javademo\javademo.iml" />
+      <module fileurl="file://D:\Projects\akshay\AndroidUtils\lib\lib.iml" filepath="D:\Projects\akshay\AndroidUtils\lib\lib.iml" />
+      <module fileurl="file://D:\Projects\akshay\AndroidUtils\AndroidUtility\mylibrary.iml" filepath="D:\Projects\akshay\AndroidUtils\AndroidUtility\mylibrary.iml" />
     </modules>
   </component>
 </project>
