@@ -64,6 +64,10 @@ public final class Utils {
         throw new UnsupportedOperationException("You can't instantiate me...");
     }
 
+    public static void init(final Application app) {
+        Utils.sApplication = app;
+        app.registerActivityLifecycleCallbacks(mCallbacks);
+    }
     /**
      *  Application
      *
